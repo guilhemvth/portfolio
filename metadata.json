@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Ingénieur Guilhem Vauthier",
+  "description": "Portfolio sobre, moderne et interactif de Guilhem Vauthier, Ingénieur en Innovation Sportive & Biomécanique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
