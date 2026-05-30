@@ -64,7 +64,7 @@ R\xE8gles de comportement :
 - Titre : Ing\xE9nieur en Innovation Sportive & Biom\xE9canique
 - Email : guilhem.vth@gmail.com
 - T\xE9l\xE9phone : 06 52 42 44 30
-- Adresse : 12 Impasse du g\xE9n\xE9ral de Montcalm, 12100 Millau (Profil itin\xE9rant, mobile)
+  - Adresse : Millau, France (Profil itin\xE9rant, mobile)
 - Sites : linkedin.com/in/guilhem-vauthier
 - Description : Ing\xE9nieur polyvalent sp\xE9cialis\xE9 en biom\xE9canique humaine, analyse du mouvement, CAO avanc\xE9e et calcul de structures composites, passionn\xE9 de sports outdors (escalade, trail).
 
